@@ -219,4 +219,177 @@ My goal is to become an **AI Engineer** capable of building intelligent, scalabl
 <!-- ===================================================================== -->
 <!-- END OF PHASE 2                                                        -->
 <!-- ===================================================================== -->
+<!-- ===================================================================== -->
+<!-- PHASE 3 : TECH STACK & DEVELOPMENT ECOSYSTEM                          -->
+<!-- ===================================================================== -->
+
+<!-- ===================== SECTION DIVIDER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F0FF&height=3&width=100%25" width="100%" alt="divider"/>
+<!-- ===================== END SECTION DIVIDER ===================== -->
+
+<h1 align="center">⚡ Tech Stack & Development Ecosystem</h1>
+
+<p align="center">A futuristic snapshot of the languages, frameworks, and tools I build with.</p>
+
+<br/>
+
+<!-- ===================== PROGRAMMING LANGUAGES ===================== -->
+<h2 align="center">💻 Programming Languages</h2>
+<p align="center">Core languages I use to design logic, build systems, and solve problems.</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql" alt="Programming Languages"/>
+</p>
+
+<div align="center">
+
+---
+
+</div>
+<!-- ===================== END PROGRAMMING LANGUAGES ===================== -->
+
+<!-- ===================== AI & MACHINE LEARNING ===================== -->
+<h2 align="center">🤖 Artificial Intelligence & Machine Learning</h2>
+<p align="center">The core stack behind my model building, experimentation, and data analysis.</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-00F0FF?style=for-the-badge&logo=numpy&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-B084F9?style=for-the-badge&logo=pandas&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-8A2BE2?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-00BFFF?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/XGBoost-00F0FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CatBoost-B084F9?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow%20(Learning)-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch%20(Learning)-00BFFF?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV%20(Learning)-00F0FF?style=for-the-badge&logo=opencv&logoColor=black"/>
+</p>
+
+<div align="center">
+
+---
+
+</div>
+<!-- ===================== END AI & MACHINE LEARNING ===================== -->
+
+<!-- ===================== FRONTEND DEVELOPMENT ===================== -->
+<h2 align="center">⚛️ Frontend Development</h2>
+<p align="center">Building responsive and interactive interfaces for AI-driven applications.</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,vite" alt="Frontend Development"/>
+</p>
+
+<div align="center">
+
+---
+
+</div>
+<!-- ===================== END FRONTEND DEVELOPMENT ===================== -->
+
+<!-- ===================== BACKEND DEVELOPMENT ===================== -->
+<h2 align="center">⚙️ Backend Development</h2>
+<p align="center">Powering AI applications with fast, reliable server-side logic.</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,python" alt="Backend Development"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/REST%20API-00F0FF?style=for-the-badge&logo=fastapi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JSON-B084F9?style=for-the-badge&logo=json&logoColor=white"/>
+</p>
+
+<div align="center">
+
+---
+
+</div>
+<!-- ===================== END BACKEND DEVELOPMENT ===================== -->
+
+<!-- ===================== DATABASES ===================== -->
+<h2 align="center">🗄️ Databases</h2>
+<p align="center">Managing and structuring data for ML pipelines and applications.</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" alt="Databases"/>
+</p>
+<p align="center"><sub>MongoDB — <i>Learning</i></sub></p>
+
+<div align="center">
+
+---
+
+</div>
+<!-- ===================== END DATABASES ===================== -->
+
+<!-- ===================== DEVELOPER TOOLS ===================== -->
+<h2 align="center">🛠️ Developer Tools</h2>
+<p align="center">Daily tools for version control, coding, testing, and analytics.</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Developer Tools"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-00F0FF?style=for-the-badge&logo=jupyter&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-B084F9?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-8A2BE2?style=for-the-badge&logo=powerbi&logoColor=white"/>
+</p>
+
+<div align="center">
+
+---
+
+</div>
+<!-- ===================== END DEVELOPER TOOLS ===================== -->
+
+<!-- ===================== DEPLOYMENT & CLOUD ===================== -->
+<h2 align="center">☁️ Deployment & Cloud</h2>
+<p align="center">Shipping applications and exploring scalable infrastructure.</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=render,vercel,netlify,docker" alt="Deployment and Cloud"/>
+</p>
+<p align="center"><sub>Docker — <i>Learning</i> &nbsp;•&nbsp; Cloud — <i>Learning</i></sub></p>
+
+<div align="center">
+
+---
+
+</div>
+<!-- ===================== END DEPLOYMENT & CLOUD ===================== -->
+
+<!-- ===================== OPERATING SYSTEMS ===================== -->
+<h2 align="center">🖥️ Operating Systems</h2>
+<p align="center">Development environments I work and experiment in.</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux" alt="Operating Systems"/>
+</p>
+<p align="center"><sub>Linux — <i>Learning</i></sub></p>
+
+<div align="center">
+
+---
+
+</div>
+<!-- ===================== END OPERATING SYSTEMS ===================== -->
+
+<!-- ===================== CURRENTLY EXPLORING ===================== -->
+<h2 align="center">📚 Currently Exploring</h2>
+<p align="center">Actively expanding my knowledge into advanced AI systems and infrastructure.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Deep%20Learning-00F0FF?style=for-the-badge&logo=tensorflow&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NLP-B084F9?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/LLM%20Engineering-00BFFF?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLOps-00F0FF?style=for-the-badge&logo=mlflow&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-B084F9?style=for-the-badge&logo=docker&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Kubernetes-8A2BE2?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Computing-00BFFF?style=for-the-badge&logo=icloud&logoColor=white"/>
+</p>
+<!-- ===================== END CURRENTLY EXPLORING ===================== -->
+
+<br/>
+
+<!-- ===================== ANIMATED BOTTOM DIVIDER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:8A2BE2,100:0F0C29&height=100&section=footer" width="100%" alt="footer divider"/>
+<!-- ===================== END ANIMATED BOTTOM DIVIDER ===================== -->
+
+<!-- ===================================================================== -->
+<!-- END OF PHASE 3                                                        -->
+<!-- ===================================================================== -->
 
