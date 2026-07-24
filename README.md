@@ -392,4 +392,100 @@ My goal is to become an **AI Engineer** capable of building intelligent, scalabl
 <!-- ===================================================================== -->
 <!-- END OF PHASE 3                                                        -->
 <!-- ===================================================================== -->
+<!-- ===================================================================== -->
+<!-- PHASE 4 : GITHUB ANALYTICS & DEVELOPER INSIGHTS                       -->
+<!-- ===================================================================== -->
+
+<!-- ===================== SECTION DIVIDER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F0FF&height=3&width=100%25" width="100%" alt="divider"/>
+<!-- ===================== END SECTION DIVIDER ===================== -->
+
+<h1 align="center">📊 GitHub Analytics & Developer Insights</h1>
+<p align="center">A live snapshot of my activity, growth, and consistency as a developer.</p>
+
+<br/>
+
+<!-- ===================== GITHUB STATISTICS ===================== -->
+<h2 align="center">📈 GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushpalse01012023-byte&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B084F9&text_color=C9D1D9" alt="GitHub Stats" width="48%"/>
+</p>
+<!-- ===================== END GITHUB STATISTICS ===================== -->
+
+<!-- ===================== SECTION DIVIDER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:8A2BE2&height=2&width=100%25" width="100%" alt="divider"/>
+<!-- ===================== END SECTION DIVIDER ===================== -->
+
+<!-- ===================== CONTRIBUTION STREAK ===================== -->
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpalse01012023-byte&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=B084F9&currStreakLabel=00F0FF" alt="GitHub Streak Stats" width="70%"/>
+</p>
+<!-- ===================== END CONTRIBUTION STREAK ===================== -->
+
+<!-- ===================== SECTION DIVIDER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F0FF&height=2&width=100%25" width="100%" alt="divider"/>
+<!-- ===================== END SECTION DIVIDER ===================== -->
+
+<!-- ===================== MOST USED LANGUAGES ===================== -->
+<h2 align="center">🌍 Most Used Languages</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpalse01012023-byte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="45%"/>
+</p>
+<!-- ===================== END MOST USED LANGUAGES ===================== -->
+
+<!-- ===================== SECTION DIVIDER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:8A2BE2&height=2&width=100%25" width="100%" alt="divider"/>
+<!-- ===================== END SECTION DIVIDER ===================== -->
+
+<!-- ===================== CONTRIBUTION ACTIVITY GRAPH ===================== -->
+<h2 align="center">📈 Contribution Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushpalse01012023-byte&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=B084F9&point=FFFFFF&area=true&area_color=8A2BE2" alt="Contribution Activity Graph" width="90%"/>
+</p>
+<!-- ===================== END CONTRIBUTION ACTIVITY GRAPH ===================== -->
+
+<!-- ===================== SECTION DIVIDER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F0FF&height=2&width=100%25" width="100%" alt="divider"/>
+<!-- ===================== END SECTION DIVIDER ===================== -->
+
+<!-- ===================== GITHUB TROPHIES ===================== -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushpalse01012023-byte&theme=nord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="GitHub Trophies"/>
+</p>
+<!-- ===================== END GITHUB TROPHIES ===================== -->
+
+<!-- ===================== SECTION DIVIDER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:8A2BE2&height=2&width=100%25" width="100%" alt="divider"/>
+<!-- ===================== END SECTION DIVIDER ===================== -->
+
+<!-- ===================== DEVELOPER SUMMARY ===================== -->
+<h2 align="center">💻 Developer Summary</h2>
+
+<table align="center" width="90%">
+  <tr>
+    <td align="center">
+
+This dashboard reflects an ongoing journey rather than a finished destination. It tracks my continuous learning, the projects I'm building along the way, and my day-to-day activity on GitHub. It's a simple, honest view of the work I'm putting in as I grow as an AI & Machine Learning developer.
+
+    </td>
+  </tr>
+</table>
+<!-- ===================== END DEVELOPER SUMMARY ===================== -->
+
+<br/>
+
+<!-- ===================== ANIMATED BOTTOM DIVIDER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:8A2BE2,100:00F0FF&height=100&section=footer" width="100%" alt="footer divider"/>
+<!-- ===================== END ANIMATED BOTTOM DIVIDER ===================== -->
+
+<!-- ===================================================================== -->
+<!-- END OF PHASE 4                                                        -->
+<!-- ===================================================================== -->
 
