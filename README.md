@@ -930,5 +930,192 @@ A predictive analytics application that estimates vehicle prices using historica
 <!-- ===================================================================== -->
 <!-- END OF PHASE 6                                                        -->
 <!-- ===================================================================== -->
+<!-- ===================================================================== -->
+<!-- PHASE 7 : PROFESSIONAL HIGHLIGHTS, COLLABORATION & FUTURE IMPACT       -->
+<!-- ===================================================================== -->
 
+<!-- ===================== SECTION DIVIDER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F0FF&height=3&width=100%25" width="100%" alt="divider"/>
+<!-- ===================== END SECTION DIVIDER ===================== -->
+
+<!-- ===================== PROFESSIONAL HIGHLIGHTS ===================== -->
+<h1 align="center">🏆 Professional Highlights</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-00F0FF?style=for-the-badge&logo=openai&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20AI%20Development-B084F9?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API%20Development-8A2BE2?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Data%20Science-00BFFF?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-00F0FF?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FastAPI-B084F9?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/React-8A2BE2?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Model%20Deployment-00BFFF?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Continuous%20Learning-00F0FF?style=for-the-badge&logo=googlescholar&logoColor=black"/>
+</p>
+<!-- ===================== END PROFESSIONAL HIGHLIGHTS ===================== -->
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:8A2BE2&height=2&width=100%25" width="100%" alt="divider"/>
+
+<br/>
+
+<!-- ===================== CERTIFICATIONS ===================== -->
+<h2 align="center">🎓 Certifications</h2>
+<p align="center">A future-facing roadmap of certifications I'm working toward.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20AI-Coming%20Soon-00F0FF?style=for-the-badge&logo=google&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DeepLearning.AI-Coming%20Soon-B084F9?style=for-the-badge&logo=coursera&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-Coming%20Soon-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Microsoft-Coming%20Soon-00BFFF?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Coming%20Soon-00F0FF?style=for-the-badge&logo=amazonaws&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NVIDIA-Coming%20Soon-B084F9?style=for-the-badge&logo=nvidia&logoColor=white"/>
+</p>
+<!-- ===================== END CERTIFICATIONS ===================== -->
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F0FF&height=2&width=100%25" width="100%" alt="divider"/>
+
+<br/>
+
+<!-- ===================== OPEN SOURCE JOURNEY ===================== -->
+<h2 align="center">🌍 Open Source Journey</h2>
+
+<p align="center">
+I'm working toward contributing meaningfully to the open source community — with a particular focus on AI and Machine Learning tooling, developer tools that make building easier, educational projects that help others learn, and community-driven software that grows through collaboration.
+</p>
+<!-- ===================== END OPEN SOURCE JOURNEY ===================== -->
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:8A2BE2&height=2&width=100%25" width="100%" alt="divider"/>
+
+<br/>
+
+<!-- ===================== COLLABORATION ===================== -->
+<h2 align="center">🤝 Collaboration</h2>
+<p align="center">Open to collaborating on:</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Projects-00F0FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-B084F9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Research-8A2BE2?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Open%20Source-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20AI-00F0FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-B084F9?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/FastAPI-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Science-00F0FF?style=for-the-badge"/>
+</p>
+<!-- ===================== END COLLABORATION ===================== -->
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F0FF&height=2&width=100%25" width="100%" alt="divider"/>
+
+<br/>
+
+<!-- ===================== ENGINEERING PRINCIPLES ===================== -->
+<h2 align="center">⚡ Engineering Principles</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem%20Solving-00F0FF?style=for-the-badge"/>
+</p>
+<p align="center">↓</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean%20Code-B084F9?style=for-the-badge"/>
+</p>
+<p align="center">↓</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Scalable%20Design-8A2BE2?style=for-the-badge"/>
+</p>
+<p align="center">↓</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Performance-00BFFF?style=for-the-badge"/>
+</p>
+<p align="center">↓</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Testing-00F0FF?style=for-the-badge"/>
+</p>
+<p align="center">↓</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Deployment-B084F9?style=for-the-badge"/>
+</p>
+<p align="center">↓</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Continuous%20Improvement-8A2BE2?style=for-the-badge"/>
+</p>
+<!-- ===================== END ENGINEERING PRINCIPLES ===================== -->
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:8A2BE2&height=2&width=100%25" width="100%" alt="divider"/>
+
+<br/>
+
+<!-- ===================== CURRENTLY BUILDING ===================== -->
+<h2 align="center">🚀 Currently Building</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/StayWise%20AI-00F0FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Medical%20Insurance%20AI-B084F9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/LLM%20Engineering-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-00F0FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA%20Practice-B084F9?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/React%20Ecosystem-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI%20APIs-00BFFF?style=for-the-badge"/>
+</p>
+<!-- ===================== END CURRENTLY BUILDING ===================== -->
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F0FF&height=2&width=100%25" width="100%" alt="divider"/>
+
+<br/>
+
+<!-- ===================== ENGINEERING QUOTE ===================== -->
+<h2 align="center">💬 Engineering Quote</h2>
+
+<p align="center">
+💫
+</p>
+
+<p align="center">
+<i>"Curiosity opens the door, consistency builds the path,<br/>and real engineering turns learning into lasting impact."</i>
+</p>
+<!-- ===================== END ENGINEERING QUOTE ===================== -->
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:8A2BE2&height=2&width=100%25" width="100%" alt="divider"/>
+
+<br/>
+
+<!-- ===================== BEYOND CODE ===================== -->
+<h2 align="center">🌟 Beyond Code</h2>
+
+<p align="center">
+Beyond the code, I find purpose in building things that matter, learning continuously, experimenting with new ideas, sharing what I know, solving problems that challenge me, and shaping AI solutions that reach beyond the screen.
+</p>
+<!-- ===================== END BEYOND CODE ===================== -->
+
+<br/>
+
+<!-- ===================== ANIMATED PREMIUM FOOTER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:8A2BE2,100:00F0FF&height=110&section=footer" width="100%" alt="footer"/>
+<!-- ===================== END ANIMATED PREMIUM FOOTER ===================== -->
+
+<!-- ===================================================================== -->
+<!-- END OF PHASE 7                                                        -->
+<!-- ===================================================================== -->
 
