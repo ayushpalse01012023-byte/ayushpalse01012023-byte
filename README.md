@@ -488,4 +488,218 @@ This dashboard reflects an ongoing journey rather than a finished destination. I
 <!-- ===================================================================== -->
 <!-- END OF PHASE 4                                                        -->
 <!-- ===================================================================== -->
+<!-- ===================================================================== -->
+<!-- PHASE 5 : FEATURED AI & MACHINE LEARNING PROJECTS                     -->
+<!-- ===================================================================== -->
+
+<!-- ===================== SECTION DIVIDER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F0FF&height=3&width=100%25" width="100%" alt="divider"/>
+<!-- ===================== END SECTION DIVIDER ===================== -->
+
+<h1 align="center">🚀 Featured AI & Machine Learning Projects</h1>
+<p align="center">A curated showcase of my work across AI, machine learning, and full-stack development.</p>
+
+<br/>
+
+<!-- ===================== PROJECT 1 : STAYWISE AI ===================== -->
+<h2 align="center">🏡 StayWise AI</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-In%20Progress-B084F9?style=for-the-badge&logo=progress&logoColor=white"/>
+</p>
+
+<p align="center">
+A full-stack AI platform for intelligent accommodation price prediction and stay recommendations using machine learning models.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-00F0FF?style=for-the-badge&logo=fastapi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-B084F9?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-8A2BE2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-00BFFF?style=for-the-badge&logo=pandas&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-00F0FF?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
+</p>
+
+<p align="center"><b>✨ Key Features</b></p>
+<p align="center">
+- Price Prediction &nbsp;•&nbsp; Recommendation Engine &nbsp;•&nbsp; FastAPI Backend<br/>
+- React Frontend &nbsp;•&nbsp; Data Processing &nbsp;•&nbsp; Scalable Architecture
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00F0FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+</p>
+
+<details>
+<summary align="center"><b>📸 View Screenshot</b></summary>
+<br/>
+<p align="center">
+  <img src="assets/images/staywise-ai.png" alt="StayWise AI Screenshot" width="80%"/>
+</p>
+</details>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:8A2BE2&height=2&width=100%25" width="100%" alt="divider"/>
+<!-- ===================== END PROJECT 1 : STAYWISE AI ===================== -->
+
+<br/>
+
+<!-- ===================== PROJECT 2 : MEDICAL INSURANCE COST PREDICTION ===================== -->
+<h2 align="center">🏥 Medical Insurance Cost Prediction</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-00F0FF?style=for-the-badge&logo=checkmarx&logoColor=black"/>
+</p>
+
+<p align="center">
+A production-ready machine learning application that predicts annual medical insurance costs using healthcare data.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CatBoost-B084F9?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-00F0FF?style=for-the-badge&logo=fastapi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-8A2BE2?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-00BFFF?style=for-the-badge&logo=pandas&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-00F0FF?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
+</p>
+
+<p align="center"><b>✨ Key Features</b></p>
+<p align="center">
+- Prediction API &nbsp;•&nbsp; Feature Engineering &nbsp;•&nbsp; Model Deployment<br/>
+- Interactive UI &nbsp;•&nbsp; Data Cleaning &nbsp;•&nbsp; REST APIs
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00F0FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+</p>
+
+<details>
+<summary align="center"><b>📸 View Screenshot</b></summary>
+<br/>
+<p align="center">
+  <img src="assets/images/medical-insurance-cost-prediction.png" alt="Medical Insurance Cost Prediction Screenshot" width="80%"/>
+</p>
+</details>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F0FF&height=2&width=100%25" width="100%" alt="divider"/>
+<!-- ===================== END PROJECT 2 : MEDICAL INSURANCE COST PREDICTION ===================== -->
+
+<br/>
+
+<!-- ===================== PROJECT 3 : HOUSE PRICE PREDICTION ===================== -->
+<h2 align="center">🏠 House Price Prediction</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-00F0FF?style=for-the-badge&logo=checkmarx&logoColor=black"/>
+</p>
+
+<p align="center">
+A regression-based machine learning application that predicts housing prices using real-world property datasets.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-B084F9?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-00F0FF?style=for-the-badge&logo=pandas&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NumPy-8A2BE2?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-00BFFF?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
+
+<p align="center"><b>✨ Key Features</b></p>
+<p align="center">
+- Regression Modeling &nbsp;•&nbsp; Feature Engineering &nbsp;•&nbsp; Data Visualization<br/>
+- Prediction System &nbsp;•&nbsp; Model Evaluation
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00F0FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+</p>
+
+<details>
+<summary align="center"><b>📸 View Screenshot</b></summary>
+<br/>
+<p align="center">
+  <img src="assets/images/house-price-prediction.png" alt="House Price Prediction Screenshot" width="80%"/>
+</p>
+</details>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:8A2BE2&height=2&width=100%25" width="100%" alt="divider"/>
+<!-- ===================== END PROJECT 3 : HOUSE PRICE PREDICTION ===================== -->
+
+<br/>
+
+<!-- ===================== PROJECT 4 : CAR PRICE PREDICTION ===================== -->
+<h2 align="center">🚗 Car Price Prediction</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-00F0FF?style=for-the-badge&logo=checkmarx&logoColor=black"/>
+</p>
+
+<p align="center">
+A predictive analytics application that estimates vehicle prices using historical automobile market data.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-B084F9?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-00F0FF?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-8A2BE2?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+<p align="center"><b>✨ Key Features</b></p>
+<p align="center">
+- Data Cleaning &nbsp;•&nbsp; Regression Model &nbsp;•&nbsp; Prediction Pipeline<br/>
+- Model Evaluation &nbsp;•&nbsp; Feature Engineering
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-00F0FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+</p>
+
+<details>
+<summary align="center"><b>📸 View Screenshot</b></summary>
+<br/>
+<p align="center">
+  <img src="assets/images/car-price-prediction.png" alt="Car Price Prediction Screenshot" width="80%"/>
+</p>
+</details>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F0FF&height=2&width=100%25" width="100%" alt="divider"/>
+<!-- ===================== END PROJECT 4 : CAR PRICE PREDICTION ===================== -->
+
+<br/>
+
+<!-- ===================== CLOSING STATEMENT ===================== -->
+<p align="center">
+<i>Every project represents another milestone in my journey toward building intelligent, production-ready AI systems.</i>
+</p>
+<!-- ===================== END CLOSING STATEMENT ===================== -->
+
+<br/>
+
+<!-- ===================== ANIMATED BOTTOM DIVIDER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:8A2BE2,100:00F0FF&height=100&section=footer" width="100%" alt="footer divider"/>
+<!-- ===================== END ANIMATED BOTTOM DIVIDER ===================== -->
+
+<!-- ===================================================================== -->
+<!-- END OF PHASE 5                                                        -->
+<!-- ===================================================================== -->
+
 
