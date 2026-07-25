@@ -701,5 +701,234 @@ A predictive analytics application that estimates vehicle prices using historica
 <!-- ===================================================================== -->
 <!-- END OF PHASE 5                                                        -->
 <!-- ===================================================================== -->
+<!-- ===================================================================== -->
+<!-- PHASE 6 : LEARNING JOURNEY & FUTURE VISION                            -->
+<!-- ===================================================================== -->
+
+<!-- ===================== SECTION DIVIDER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F0FF&height=3&width=100%25" width="100%" alt="divider"/>
+<!-- ===================== END SECTION DIVIDER ===================== -->
+
+<!-- ===================== TITLE ===================== -->
+<h1 align="center">🏆 Learning Journey</h1>
+<p align="center"><i>A living roadmap of how I'm evolving into an AI Engineer — one skill, one project, one line of code at a time.</i></p>
+<!-- ===================== END TITLE ===================== -->
+
+<br/>
+
+<!-- ===================== PROFESSIONAL LEARNING TIMELINE ===================== -->
+<h2 align="center">🛤️ Professional Learning Timeline</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-00F0FF?style=for-the-badge&logo=python&logoColor=black"/>
+</p>
+<p align="center">↓</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-B084F9?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
+<p align="center">↓</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+<p align="center">↓</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-00BFFF?style=for-the-badge&logo=fastapi&logoColor=black"/>
+</p>
+<p align="center">↓</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-00F0FF?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
+<p align="center">↓</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20AI-B084F9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+<p align="center">↓</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
+<p align="center">↓</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/NLP-00BFFF?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
+<p align="center">↓</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-00F0FF?style=for-the-badge&logo=openai&logoColor=black"/>
+</p>
+<p align="center">↓</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MLOps-B084F9?style=for-the-badge&logo=mlflow&logoColor=white"/>
+</p>
+<p align="center">↓</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-8A2BE2?style=for-the-badge&logo=icloud&logoColor=white"/>
+</p>
+<p align="center">↓</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Production%20AI%20Systems-00F0FF?style=for-the-badge&logo=kubernetes&logoColor=black"/>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:8A2BE2&height=2&width=100%25" width="100%" alt="divider"/>
+<!-- ===================== END PROFESSIONAL LEARNING TIMELINE ===================== -->
+
+<br/>
+
+<!-- ===================== CURRENT LEARNING ===================== -->
+<h2 align="center">🌌 Current Learning</h2>
+<p align="center">Actively expanding into deeper AI systems and infrastructure.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-00F0FF?style=for-the-badge&logo=tensorflow&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PyTorch-B084F9?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-00BFFF?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/LLMs-00F0FF?style=for-the-badge&logo=openai&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-B084F9?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-8A2BE2?style=for-the-badge&logo=robotframework&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/MLOps-00BFFF?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-00F0FF?style=for-the-badge&logo=docker&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cloud-B084F9?style=for-the-badge&logo=icloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-8A2BE2?style=for-the-badge&logo=powerbi&logoColor=white"/>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F0FF&height=2&width=100%25" width="100%" alt="divider"/>
+<!-- ===================== END CURRENT LEARNING ===================== -->
+
+<br/>
+
+<!-- ===================== DSA JOURNEY ===================== -->
+<h2 align="center">🧩 DSA Journey</h2>
+<p align="center">Consistent, category-wise problem solving — building strong fundamentals one topic at a time.</p>
+
+<p align="center"><b>🔹 Problem Solving Foundations</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Arrays-00F0FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Strings-B084F9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linked%20Lists-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stack-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Queue-00F0FF?style=for-the-badge"/>
+</p>
+
+<p align="center"><b>🔹 Trees & Graphs</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Trees-B084F9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Graphs-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Recursion-00BFFF?style=for-the-badge"/>
+</p>
+
+<p align="center"><b>🔹 Sorting & Searching</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Binary%20Search-00F0FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sorting-B084F9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Searching-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Merge%20Sort-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Quick%20Sort-00F0FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Count%20Inversions-B084F9?style=for-the-badge"/>
+</p>
+
+<p align="center"><b>🔹 Advanced & Backtracking</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Backtracking-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sudoku%20Solver-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/N%20Queens-00F0FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Knight%20Tour-B084F9?style=for-the-badge"/>
+</p>
+
+<p align="center"><i>Practicing consistently to strengthen problem-solving and algorithmic thinking.</i></p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:8A2BE2&height=2&width=100%25" width="100%" alt="divider"/>
+<!-- ===================== END DSA JOURNEY ===================== -->
+
+<br/>
+
+<!-- ===================== SKILL PROGRESS DASHBOARD ===================== -->
+<h2 align="center">📊 Skill Progress Dashboard</h2>
+
+<p align="center">
+<code>Python               ██████████ 100%</code><br/>
+<code>Machine Learning     ██████████ 100%</code><br/>
+<code>FastAPI              █████████░ 90%</code><br/>
+<code>React                ████████░░ 80%</code><br/>
+<code>Deep Learning        █████░░░░░ 50%</code><br/>
+<code>NLP                  ████░░░░░░ 40%</code><br/>
+<code>LLMs                 ███░░░░░░░ 30%</code><br/>
+<code>MLOps                ██░░░░░░░░ 20%</code><br/>
+<code>Cloud                █░░░░░░░░░ 10%</code>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F0FF&height=2&width=100%25" width="100%" alt="divider"/>
+<!-- ===================== END SKILL PROGRESS DASHBOARD ===================== -->
+
+<br/>
+
+<!-- ===================== MILESTONES ===================== -->
+<h2 align="center">🏁 Milestones</h2>
+
+<p align="center">
+✅ Built multiple Machine Learning projects<br/>
+✅ Built Full-Stack AI applications<br/>
+✅ Developed REST APIs<br/>
+✅ Practicing DSA consistently<br/>
+✅ Building an AI Portfolio<br/>
+✅ Learning modern AI technologies
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:8A2BE2&height=2&width=100%25" width="100%" alt="divider"/>
+<!-- ===================== END MILESTONES ===================== -->
+
+<br/>
+
+<!-- ===================== FUTURE VISION ===================== -->
+<h2 align="center">🔭 Future Vision</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖_AI_Engineer-00F0FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/✨_Generative_AI_Engineer-B084F9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🏗️_Production_AI-8A2BE2?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/🌐_Open_Source-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔬_Research-00F0FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/☁️_Scalable_AI_Systems-B084F9?style=for-the-badge"/>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F0FF&height=2&width=100%25" width="100%" alt="divider"/>
+<!-- ===================== END FUTURE VISION ===================== -->
+
+<br/>
+
+<!-- ===================== ENGINEERING PHILOSOPHY ===================== -->
+<h2 align="center">🧭 Engineering Philosophy</h2>
+
+<p align="center">
+💡
+</p>
+
+<p align="center">
+<i>"Great AI systems are built through curiosity, consistency, engineering excellence,<br/>and solving meaningful real-world problems."</i>
+</p>
+<!-- ===================== END ENGINEERING PHILOSOPHY ===================== -->
+
+<br/>
+
+<!-- ===================== ANIMATED PREMIUM FOOTER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:8A2BE2,100:00F0FF&height=110&section=footer" width="100%" alt="footer"/>
+<!-- ===================== END ANIMATED PREMIUM FOOTER ===================== -->
+
+<!-- ===================================================================== -->
+<!-- END OF PHASE 6                                                        -->
+<!-- ===================================================================== -->
 
 
